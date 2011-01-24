@@ -1,0 +1,13 @@
+*.pyc
+flask/
+flaskext
+github2
+jinja2
+markdown
+simplejson
+werkzeug
+wtforms
+settings.py
+posterous
+
+*.ai
